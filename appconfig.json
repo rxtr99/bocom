@@ -1,0 +1,10 @@
+{
+  "settings":
+    {
+        "url":"https://www.booking.com/searchresults.html?ss=Maldives&ssne=Tokyo&ssne_untouched=Tokyo&label=gen173bo-1DCAEoggI46AdIM1gDaGiIAQGYATG4ARfIAQzYAQPoAQH4AQOIAgGYAiGoAgO4At-fk6cGwAIB0gIkNTgzNGI2ZTQtNzY2Zi00ZDY4LWE2ZWItMmZjZTY2MDIyNDNh2AIE4AIB&aid=304142&lang=en-us&sb=1&src_elem=sb&src=searchresults&dest_id=129&dest_type=country&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=6f236acb05bc0097&ac_meta=GhA2ZjIzNmFjYjA1YmMwMDk3IAAoATICZW46CG1hbGRpdmVzQABKAFAA&checkin=2023-09-10&checkout=2023-09-13&group_adults=2&no_rooms=1&group_children=0",
+        "startPage":"0",
+        "proxy":"false",
+        "domain":"gmail.com",
+        "password":"Alfarz123!"
+    }
+}
